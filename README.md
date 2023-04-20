@@ -5,6 +5,13 @@ SS23 - Scanner
 
 Erzeugt über einen ```Scanner``` oder einen ```BufferedReader``` eine eingabe Funktion für ein Programm. Über den Befehl ```time``` soll das Programm die aktuelle Uhrzeit ausgeben. Wenn ```exit``` eingegeben wird soll sich das Programm beenden.
 
+Aktuelles Datum + Uhrzeit: 
+```System.out.println(new Date())```
+
+Programm beenden: 
+```System.exit(0)```
+
+
 
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
